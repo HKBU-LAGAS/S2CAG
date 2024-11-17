@@ -42,7 +42,7 @@ For any questions or feedback, feel free to contact Miss [Xiaoyang LIN](mailto:c
 
 ## Citation
 
-If you find S^2CAG useful in your research or applications, please kindly cite:
+If you find S2CAG and M-S2CAG useful in your research or applications, please kindly cite:
 ```tex
 @inproceedings{lin2024s2cag,
 title={Spectral Subspace Clustering for Attributed Graphs}, 
