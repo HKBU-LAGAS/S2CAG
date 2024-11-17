@@ -1,6 +1,6 @@
 # S2CAG: Spectral Subspace Clustering for Attributed Graphs
 
-## Envirorment
+## 📝 Envirorment
 
 tensorflow --2.10.0
 
@@ -12,7 +12,7 @@ scikit-learn --1.3.2
 
 scipy --1.10.1
 
-### Parameter List for `run.py`
+## Parameters
 
 | Parameter |   Type  | Default | Description                                                             |
 | :-------: | :-----: | :-----: | :---------------------------------------------------------------------- |
@@ -23,24 +23,24 @@ scipy --1.10.1
 |  `tau`    | integer |   `7`   | the itertate times to get convergence results.                          |
 |  `runs`   | integer |   `5`   | Number of runs.                                                         |
 
-### Example
+## 🚀 Example
 You can get the results in paper by running following instruction.
 ```bash
 $bash run.sh 
 ```
 
-#### Datasets
+## 📚 Datasets
 You can download all datasets from [HERE](https://www.dropbox.com/scl/fi/9olm295mxf415c5pf8hvy/S2CAG-datasets.zip?rlkey=3iuzartucsdatbolgvqv1gcfr&st=1ucjwnkf&dl=0).
 
 ---------
 
 
-## Contact
+## 😀 Contact
 
 For any questions or feedback, feel free to contact Miss [Xiaoyang LIN](mailto:csxylin@hkbu.edu.hk).
 
 
-## Citation
+## 🌟 Citation
 
 If you find S2CAG and M-S2CAG useful in your research or applications, please kindly cite:
 ```tex
@@ -53,7 +53,7 @@ year={2024}
 }
 ```
 
-## Acknowledgements
+## 😊 Acknowledgements
 You may refer to related work that serves as foundations for our framework and code repository, [SAGSC](https://github.com/chakib401/SAGSC), etc. Thanks for their wonderful works.
 
 
