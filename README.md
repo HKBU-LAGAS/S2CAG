@@ -30,7 +30,30 @@ $bash run.sh
 ```
 
 #### Datasets
+You can download all datasets from [HERE](https://www.dropbox.com/scl/fi/9olm295mxf415c5pf8hvy/S2CAG-datasets.zip?rlkey=3iuzartucsdatbolgvqv1gcfr&st=1ucjwnkf&dl=0).
 
-&#x20;You can download data from <https://www.dropbox.com/scl/fi/9olm295mxf415c5pf8hvy/S2CAG-datasets.zip?rlkey=3iuzartucsdatbolgvqv1gcfr&st=1ucjwnkf&dl=0>.
+---------
+
+
+## Contact
+
+For any questions or feedback, feel free to contact Miss [Xiaoyang LIN](mailto:csxylin@hkbu.edu.hk).
+
+
+## Citation
+
+If you find S$^2$CAG useful in your research or applications, please kindly cite:
+```tex
+@inproceedings{lin2024s2cag,
+title={Spectral Subspace Clustering for Attributed Graphs}, 
+author={Xiaoyang Lin and Renchi Yang and Haoran Zheng and Xiangyu Ke},
+booktitle={Proceedings of the 31th ACM SIGKDD conference on knowledge discovery and data mining},
+pages={To Appear},
+year={2024}
+}
+```
+
+## Acknowledgements
+You may refer to related work that serves as foundations for our framework and code repository, [SAGSC](https://github.com/chakib401/SAGSC), etc. Thanks for their wonderful works.
 
 
