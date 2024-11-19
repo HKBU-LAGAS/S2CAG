@@ -1,4 +1,11 @@
-# S2CAG: Spectral Subspace Clustering for Attributed Graphs
+# Spectral Subspace Clustering for Attributed Graphs
+
+<p align="center">
+	<a href="https://arxiv.org/pdf/2407.10916"><img src="https://img.shields.io/badge/arXiv-pdf-yellowgreen"></a>
+	<a href="https://github.com/HKBU-LAGAS/S2CAG/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+</p>
+
+--------------------------------------------------------------------------------
 
 ## 📝 Envirorment
 
