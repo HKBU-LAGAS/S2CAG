@@ -44,7 +44,7 @@ You can download all datasets from [HERE](https://www.dropbox.com/scl/fi/9olm295
 
 ## 😀 Contact
 
-For any questions or feedback, feel free to contact Miss [Xiaoyang LIN](mailto:csxylin@hkbu.edu.hk).
+For any questions or feedback, feel free to contact Miss [Xiaoyang LIN](mailto:csxylin@comp.hkbu.edu.hk).
 
 
 ## 🌟 Citation
